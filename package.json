@@ -1,0 +1,46 @@
+{
+  "name": "minha-rotina-semanal",
+  "version": "1.0.0",
+  "description": "Um projeto web elegante e responsivo para visualizar e organizar sua rotina semanal com um design feminino e delicado",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000",
+    "build": "echo 'Projeto já está pronto para produção!'",
+    "test": "echo 'Abra index.html em um navegador para testar'"
+  },
+  "keywords": [
+    "rotina",
+    "planejamento",
+    "organização",
+    "semanal",
+    "feminino",
+    "delicado",
+    "responsivo",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Usuária",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/usuario/minha-rotina-semanal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/usuario/minha-rotina-semanal/issues"
+  },
+  "homepage": "https://github.com/usuario/minha-rotina-semanal#readme",
+  "devDependencies": {},
+  "dependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
+
